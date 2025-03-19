@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- 首頁 -->
+  <url>
+    <loc>https://hyjdevelop.com/</loc>
+    <lastmod>2025-03-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <!-- 線上商城 -->
+  <url>
+    <loc>https://hyjdevelop.com/shop</loc>
+    <lastmod>2025-03-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- 服務條款 -->
+  <url>
+    <loc>https://hyjdevelop.com/service</loc>
+    <lastmod>2025-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <!-- 媒體庫 -->
+  <url>
+    <loc>https://hyjdevelop.com/database</loc>
+    <lastmod>2025-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <!-- 最新資訊 -->
+  <url>
+    <loc>https://hyjdevelop.com/updates</loc>
+    <lastmod>2025-03-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- 品牌使用準則 -->
+  <url>
+    <loc>https://hyjdevelop.com/terms</loc>
+    <lastmod>2025-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <!-- 資料和隱私 -->
+  <url>
+    <loc>https://hyjdevelop.com/privacy</loc>
+    <lastmod>2025-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <!-- 安全和表達自由 -->
+  <url>
+    <loc>https://hyjdevelop.com/security</loc>
+    <lastmod>2025-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <!-- 雲端服務 -->
+  <url>
+    <loc>https://hyjdevelop.com/hosting</loc>
+    <lastmod>2025-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <!-- SLRC 學生學習資訊社群 -->
+  <url>
+    <loc>https://hyjdevelop.com/slrc</loc>
+    <lastmod>2025-03-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- 論壇 -->
+  <url>
+    <loc>https://hyjdevelop.com/forum</loc>
+    <lastmod>2025-03-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- 社群守則 -->
+  <url>
+    <loc>https://hyjdevelop.com/rules</loc>
+    <lastmod>2025-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <!-- 歷史發展 -->
+  <url>
+    <loc>https://hyjdevelop.com/about</loc>
+    <lastmod>2025-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <!-- 聯絡我們 -->
+  <url>
+    <loc>https://hyjdevelop.com/contact</loc>
+    <lastmod>2025-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <!-- 加入我們 -->
+  <url>
+    <loc>https://hyjdevelop.com/join</loc>
+    <lastmod>2025-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <!-- 成為合作夥伴 -->
+  <url>
+    <loc>https://hyjdevelop.com/partner</loc>
+    <lastmod>2025-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>
