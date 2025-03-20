@@ -27,5 +27,9 @@ Disallow: /admin
 # 禁止爬取靜態資源（可選）
 Disallow: /assets/
 
+# 禁止爬取的過期網頁
+Disallow: https://hyjdevelop.com/支援/服務條款
+Disallow: https://hyjdevelop.com/首頁/雲端服務
+
 # 指定網站地圖（如果有）
 Sitemap: https://hyjdevelop.com/sitemap.xml
